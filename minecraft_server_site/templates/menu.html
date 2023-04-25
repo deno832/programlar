@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="/static/menu/script.js" type="module"></script>
+    <script src="/static/menu/running.js" type="module"></script>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/menu/style.css">
+    <title>Dashboard</title>
+  
+  </head>
+  <body>
+    <div id="background"></div>
+    
+    <div id="hiza"> <h1 id="baslık">Deniz Eren YILDIRIM</h1></div>
+    
+    <p id="my-paragraph" class="my-paragraph">{{ my_var }}</p>
+    
+    <div id="hiza-menu">
+      <div id="container">
+        <textarea id="properties" rows="4" cols="50"></textarea>
+        <button id="prop-btn" class="minecraft-btn mx-auto w-64 text-center text-white truncate p-1 border-2 border-b-4 hover:text-yellow-200">Send</button>
+        <button id="prop-reset" class="minecraft-btn mx-auto w-64 text-center text-white truncate p-1 border-2 border-b-4 hover:text-yellow-200">Reset</button>
+        <div id="container-alt">
+          <button id="start" class="minecraft-btn mx-auto w-64 text-center text-white truncate p-1 border-2 border-b-4 hover:text-yellow-200">Start!</button>
+          <p id="durum-lbl">State: Not Running</p>
+        </div>
+        
+      </div>
+      <div id="command-div">
+        <input type="text" id="command-entry">
+        <button id="command-btn" class="minecraft-btn mx-auto w-64 text-center text-white truncate p-1 border-2 border-b-4 hover:text-yellow-200">Send</button>
+        <textarea id="command-out" rows="4" cols="50">---Komut Çıktısı---</textarea>
+      </div>
+    </div>
+    
+  
+  </body>
+</html>
