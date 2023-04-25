@@ -1,1 +1,1 @@
-# programlar
+Şu ana kadar yazdığım programlar.
