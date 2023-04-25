@@ -1,0 +1,82 @@
+#Sonraki{
+  font-size: 29px;
+  position:relative;
+  bottom: 4px;
+}
+
+#Önceki {
+  font-size: 29px;
+  position:relative;
+  bottom: 4px;
+}
+
+#BaşlatDurdur{
+  font-size: 40px;
+  position:relative;
+  height: 60px;
+  width: 300px;
+}
+
+#SesArtı{
+  font-size: 27px;
+  position:relative;
+}
+
+.parca{
+  height: 55px;
+  width: 125px;
+}
+
+#SesEksi{
+  font-size: 27px;
+  position:relative;
+}
+
+#baslık{
+  font-size: 45px;
+  white-space: nowrap;
+  margin-left: 100px;
+}
+
+#container{
+  position: absolute;
+  top: 70%;
+  
+  width: 700px;
+  border:2px solid black;
+}
+
+#my-paragraph{
+  margin-left: 260px;
+  font-size: 30px;
+  position:relative;
+  
+}
+
+.btn{
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  font-size: inherit;
+  border-radius: 2em;
+  background: rgb(15, 78, 255);
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 22px;
+  
+}
+
+.btn:active {
+  background-color: rgb(0, 0, 255);
+  box-shadow: 0 4px #666;
+  transform: translateY(3px);
+}
+
+.ses{
+  left: 243px;
+  height: 60px;
+  width: 160px;
+}
