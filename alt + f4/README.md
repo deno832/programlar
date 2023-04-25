@@ -1,1 +1,1 @@
-serdar
+Bu program belirlediğinizz vakit geldiğinde bilgisayara birkaç defa alt-f4 atar. Programlar da kapanır. Bu yazılıkı sürekli tenefüsümüzü yiyen hocamıza yapmıştım 8.sınıftayken. Sonra biri ispiyonlamıştı. Müdürden azar yemiştim. :D
