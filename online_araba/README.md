@@ -1,0 +1,1 @@
+Bu robotu internete bağlayıp port yönlendirme yaparsanız robotu internet sitesi üzerinden dünyanın her yerinden kontrol edebilirsiniz. Ayrıca üzerine kamera bağlayıp google meet aracılığıyla canlı görüntü akışı da alabilirsiniz.
