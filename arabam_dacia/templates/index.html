@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="/static/script.js" type="module"></script>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Araba Kontrol</title>
+  </head>
+  <body>
+    <h2>{{my_var}} </h2>
+    
+    <div class="container" id="kumanda">
+      <button id="İleri" class="btn"> 
+         <span class="arrow">⬆</span>
+       </button>  <br> <br>
+
+      <button id="Sol" class="btn">⬅</button>
+
+      <button id="Sağ" class="btn">➞</button> <br> <br>
+
+      <button id="Geri" class="btn">⬇</button>
+    </div>
+    
+    <div id="hiz_kontrol">
+      <input type="number" min=20 max=100 id="hiz_entry">
+      <label>(Varsayılan hız: 50)</label> <br> <br>
+      <button id="hiz_btn" class="btn">Hızı değiştir (0-100)</button>
+      
+    </div>
+    
+    <button id="sokla" class="btn">Şokla!</button>
+
+    <div id="gafa">
+        <button id="kafa_sol" class="gafalar">Sola Dön</button>
+        <button id="kafa_orta" class="gafalar">Başlangıç</button>
+        <button id="kafa_sağ" class="gafalar">Sağa Dön</button>
+    </div>
+
+  </body>
+</html>
