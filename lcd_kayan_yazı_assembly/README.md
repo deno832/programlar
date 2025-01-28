@@ -1,4 +1,4 @@
-Bu projede zoru başarmak, assemblynin temellerini öğrenmek ve LCD ekranın çalışma prensibini daha iyi öğrenmek için yaptım. Bunu yapmak kolay olmadı. Youtubede Assembly kullanarak led yakıp söndürme videosunun 30dk olduğunu görünce ağladım.
+I undertook this project to achieve something challenging, learn the basics of assembly, and better understand how an LCD screen works. It wasn't easy to accomplish. I cried when I saw a 30-minute YouTube video on turning an LED on and off using assembly.
 
 Video:
 
