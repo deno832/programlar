@@ -1,3 +1,1 @@
-Bu site uzaktan bir minecraft sunucusunu kontrol etmeye yarar. Sunucuyu başlatabilir, sunucu ayarlarını değiştirebilir, ayarları sıfırlayabilir, minecraft sunucusuna
-komut gönderebilir (gamemode,gamerule vb.). Giriş ekranı mevcuttur. Şifreyi bilmeyen panele giriş yapamaz. Token tarzı bir sistemle bunu sağladım. GitHuba yükleyebilmek için
-minecraft sunucusunun kalsörünü silmek zorunda kaldım. api/server dizini o yüzden büyük oranda eksik. 
+This site is designed to remotely control a Minecraft server. You can start the server, change server settings, reset configurations, and send commands to the Minecraft server (such as gamemode, gamerule, etc.). There is a login screen, and anyone without the password cannot access the panel. I implemented this using a token-based system. To upload it to GitHub, I had to delete the Minecraft server's folder. Therefore, the api/server directory is largely incomplete.
